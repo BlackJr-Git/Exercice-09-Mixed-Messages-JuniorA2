@@ -10,6 +10,12 @@ function randomIndex(array) {
   return Math.floor(Math.random() * array.length);
 }
 
+console.log(
+  `${greetings[randomIndex(greetings)]} ! ${
+    question[randomIndex(question)]
+  } ? Super ! ${wish[randomIndex(wish)]} `
+);
+
 function randomMessage() {
   const array = [greetings, question, wish];
 
