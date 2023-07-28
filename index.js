@@ -12,12 +12,12 @@ console.log(
   } ? Super ! ${wish[randomIndex(wish)]} `
 );
 
-function randomMessage() {
-  const array = [greetings, question, wish];
+// function randomMessage() {
+//   const array = [greetings, question, wish];
 
-  for (let i = 0; i < array.length; i++) {
-    console.log(array[i][randomIndex(array[i])]);
-  }
-}
+//   for (let i = 0; i < array.length; i++) {
+//     console.log(array[i][randomIndex(array[i])]);
+//   }
+// }
 
-randomMessage();
+// randomMessage();
