@@ -1,12 +1,1 @@
-## Mixed Message
-For this project, you will build a message generator program. Every time a user runs a program, they should get a new, randomized output. You’re welcome to take the project in a couple of different forms, like an astrology generator, inspirational message, or nonsensical jokes. To make your program truly random, the message that it outputs should be made up of at least three different pieces of data. Take what you know of JavaScript syntax so far to build the program and customize it to your liking.
-
-### Project Objectives:
-- Build a message generator program using JavaScript
-- Use Git version control
-- Use command line
-- Develop locally on your computer
-### Prerequisites:
-- JavaScript
-- Git and GitHub
-- Command line
+## Message mixtePour ce projet, vous allez construire un programme générateur de messages. Chaque fois qu'un utilisateur exécute un programme, il doit obtenir un nouveau message aléatoire. Vous pouvez prendre différentes formes pour ce projet, comme un générateur d'astrologie, un message d'inspiration ou des blagues absurdes. Pour que votre programme soit vraiment aléatoire, le message qu'il produit doit être composé d'au moins trois données différentes. Utilisez ce que vous savez jusqu'à présent de la syntaxe JavaScript pour construire le programme et le personnaliser à votre guise.### Objectifs du projet :- Construire un programme générateur de messages en JavaScript- Utiliser le contrôle de version Git- Utiliser la ligne de commande- Développer localement sur votre ordinateur### Prérequis:- JavaScript- Git et GitHub- Ligne de commande
